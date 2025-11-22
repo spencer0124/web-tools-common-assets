@@ -57,3 +57,16 @@ git submodule add https://github.com/spencer0124/web-tools-common-assets.git ass
   </div>
 </div>
 ```
+
+---
+
+## 🔗 Projects Using This Library
+
+- **[IG 9-Cut](https://github.com/spencer0124/insta-grid-splitter)**: 인스타그램 그리드 분할 도구
+- **[인스타 사진 이어붙이기](https://github.com/spencer0124/insta-carousel)**: 긴 게시물 제작 도구
+
+---
+
+## 🤝 Contributing
+
+공통 에셋 개선 제안은 Issue를 통해 남겨주세요!
